@@ -2,8 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#45433E</string>
+		<key>divider</key>
+		<string>#75715E</string>
+		<key>foreground</key>
+		<string>#858179</string>
+		<key>selectionBackground</key>
+		<string>#3B3935</string>
+		<key>selectionForeground</key>
+		<string>#BFBBB0</string>
+	</dict>
 	<key>name</key>
-	<string>Railscasts</string>
+	<string>RailsCasts</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -101,7 +114,7 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.language, variable.other</string>
+			<string>variable.language, variable.other,variable.scss,meta.set.variable</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
