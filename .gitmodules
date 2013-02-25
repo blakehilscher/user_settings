@@ -2,10 +2,6 @@
 	path = application_support/TextMate/Bundles/Zen-css.tmbundle
 	url = git://github.com/blakehilscher/zen-css.git
 	
-[submodule "application_support/TextMate/Bundles/Ruby-Slim.tmbundle"]
-	path = application_support/TextMate/Bundles/Ruby-Slim.tmbundle
-	url = git://github.com/fredwu/ruby-slim-tmbundle.git
-	
 [submodule "application_support/TextMate/Bundles/CoffeeScript.tmbundle"]
 	path = application_support/TextMate/Bundles/CoffeeScript.tmbundle
 	url = git://github.com/jashkenas/coffee-script-tmbundle.git
@@ -34,9 +30,6 @@
 [submodule "application_support/TextMate/Bundles/SCSS.tmbundle"]
 	path = application_support/TextMate/Bundles/SCSS.tmbundle
 	url = git://github.com/kuroir/SCSS.tmbundle.git
-[submodule "application_support/TextMate/Bundles/zen-coding.tmbundle"]
-	path = application_support/TextMate/Bundles/zen-coding.tmbundle
-	url = git://github.com/sergeche/zen-coding.git
 [submodule "application_support/TextMate/Bundles/bh-compass-textmate.tmbundle"]
 	path = application_support/TextMate/Bundles/bh-compass-textmate.tmbundle
 	url = git://github.com/blakehilscher/bh-compass-textmate-bundle.git
