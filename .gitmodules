@@ -36,3 +36,6 @@
 [submodule "application_support/TextMate/Bundles/less.tmbundle"]
 	path = application_support/TextMate/Bundles/less.tmbundle
 	url = git://github.com/appden/less.tmbundle.git
+[submodule "solarized"]
+	path = solarized
+	url = git://github.com/altercation/solarized.git
