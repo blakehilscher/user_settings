@@ -9,5 +9,4 @@ ln -si $f/dotfiles/gemrc ~/.gemrc
 ln -si $f/dotfiles/vim ~/.vim
 ln -si $f/dotfiles/vimrc ~/.vimrc
 ln -si $f/dotfiles/gitignore_global ~/.gitignore_global
-
-ln -si $f/application_support/* ~/Library/Application\ Support
+ln -si $f/application_support/Breeze ~/Library/Application\ Support
