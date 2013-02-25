@@ -14,10 +14,6 @@
   path = application_support/TextMate/Bundles/Ack.tmbundle
 	url = git://github.com/protocool/ack-tmbundle.git
 	
-[submodule "dotfiles"]
-	path = dotfiles
-	url = git://github.com/blakehilscher/dotfiles.git
-	
 [submodule "application_support/TextMate/Bundles/sass-textmate-bundle"]
 	path = application_support/TextMate/Bundles/sass-textmate.tmbundle
 	url = https://github.com/seaofclouds/sass-textmate-bundle.git
