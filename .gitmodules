@@ -35,3 +35,6 @@
 [submodule "solarized"]
 	path = solarized
 	url = git://github.com/altercation/solarized.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:blakehilscher/dotfiles.git
